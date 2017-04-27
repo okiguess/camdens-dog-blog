@@ -1,0 +1,17 @@
+h1 {
+  color:blue
+}
+
+h2 {
+  font-style:bold;
+  color:red
+}
+
+ul {
+  line-height:30px
+}
+
+p {
+  font-family:sans-serif;
+  text-align:center;
+}
